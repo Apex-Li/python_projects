@@ -28,7 +28,7 @@
 ### 1. 克隆或下载项目
 
 ```bash
-cd /Users/lihaoxiang/WorkSpace/Work/转头识别系统
+cd /path/to/the/project
 ```
 
 ### 2. 创建虚拟环境（已完成）
